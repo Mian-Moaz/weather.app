@@ -1,0 +1,18 @@
+.home {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .error {
+    color: red;
+    margin: 1rem 0;
+  }
+  
+  .forecast-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+  }
+  
