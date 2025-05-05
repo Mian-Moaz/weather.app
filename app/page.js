@@ -4,7 +4,7 @@ import Head from "next/head";
 import SearchBox from "../components/SearchBox";
 import WeatherCard from "../components/WeatherCard";
 // import ForecastCard from "../components/ForecastCard";
-import { fetchWeatherData } from "../api/weatherApi";
+import { fetchWeatherData } from "../service/weatherApi";
 import "../styles/Home.css";
 
 export default function Home() {
